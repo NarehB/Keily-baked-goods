@@ -169,7 +169,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("../The\ sky\ above\ us\ edit.jpg") no-repeat center;
+    /* background: url("../new\ banner\ fixed.png") no-repeat center; */
     height: 100vh;
     color: #D90D1E;
     min-height: 150px;
